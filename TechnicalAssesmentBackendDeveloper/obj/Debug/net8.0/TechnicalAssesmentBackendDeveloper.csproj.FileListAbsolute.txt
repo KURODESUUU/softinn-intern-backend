@@ -1,0 +1,15 @@
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\bin\Debug\net8.0\TechnicalAssesmentBackendDeveloper.exe
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\bin\Debug\net8.0\TechnicalAssesmentBackendDeveloper.deps.json
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\bin\Debug\net8.0\TechnicalAssesmentBackendDeveloper.runtimeconfig.json
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\bin\Debug\net8.0\TechnicalAssesmentBackendDeveloper.dll
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\bin\Debug\net8.0\TechnicalAssesmentBackendDeveloper.pdb
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.AssemblyInfoInputs.cache
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.AssemblyInfo.cs
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.csproj.CoreCompileInputs.cache
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.dll
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\refint\TechnicalAssesmentBackendDeveloper.dll
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.pdb
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.genruntimeconfig.cache
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\ref\TechnicalAssesmentBackendDeveloper.dll
+c:\Yuan\Intern\technical-assessment-internship-backend-master\TechnicalAssesmentBackendDeveloper\obj\Debug\net8.0\TechnicalAssesmentBackendDeveloper.sourcelink.json
